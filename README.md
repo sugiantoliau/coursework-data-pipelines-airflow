@@ -136,3 +136,24 @@ airflow dags pause tutorial
 ```
 
 
+<br>
+
+### 🛠 **Practice exercises**
+
+1. coursework first_dag
+- Directory: lab_first_dag
+- Open my_first_dag_bash_operator.py. Complete the task using the BashOperator to run a simple echo command.
+- Open my_first_dag_python_operator.py. Define a Python function and call it using the PythonOperator.
+- Open practice_my_first_dag.txt, Practice the workflow
+
+- Navigate to the coursework dummy_dag directory.
+- my_first_dag_bash_operator.py
+- my_first_dag_python_operator.py
+- practice my_first_dag step by step
+
+
+2. coursework dummy_dag
+- Directory: lab_dummy_dag
+- Open dummy_dag.py. Complete the task using to run a simple echo command.
+- Open practice_dummy_dag.txt, Practice the workflow
+
