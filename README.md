@@ -140,6 +140,8 @@ airflow dags pause tutorial
 
 ### 🛠 **Practice exercises**
 
+<br>
+
 1. coursework first_dag
 - Directory: lab_first_dag
 - Open my_first_dag_bash_operator.py. Complete the task using the BashOperator to run a simple echo command.
@@ -151,6 +153,8 @@ airflow dags pause tutorial
 - my_first_dag_python_operator.py
 - practice my_first_dag step by step
 
+
+<br>
 
 2. coursework dummy_dag
 - Directory: lab_dummy_dag
